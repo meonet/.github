@@ -36,4 +36,4 @@ Wir schaffen messbaren Mehrwert durch praxisnahe IT‑Projekte, Prozess­optimie
 
 ## Mitmachen
 Wir freuen uns über Issues, Pull‑Requests und fachlichen Austausch.  
-Bitte beachte unseren [Code of Conduct](./CODE_OF_CONDUCT.md) und die [Contributing‑Richtlinien](./CONTRIBUTING.md).
+Bitte beachte unseren [Code of Conduct](./../CODE_OF_CONDUCT.md) und die [Contributing‑Richtlinien](./../CONTRIBUTING.md).
